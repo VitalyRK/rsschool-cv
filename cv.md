@@ -42,11 +42,13 @@ In 2009-2022, worked generally in another field - retail trade. Owned some mini 
 * [Order form](https://codepen.io/benemon/pen/XWYXpEW)
 * [Promo-site (visiting card-site)](https://vitalyrk.github.io/ZlatonWebsite/)
 * [CSS Text Gradient Generator](https://vitalyrk.github.io/GenerateTextGradient/)
+
 ## Education
 * Francysk Skaryna Gomel State University, Geographer and ecologist, 2009
 * Self-learning:
 	* [Web-technologies: entry level](https://stepik.org/82108)
 	* [Front-end Developer HTML, CSS and JavaScript](https://stepik.org/113402)
+
 ##  Language
 * Russian - native speaker
 * English (A2)
