@@ -1,6 +1,8 @@
 # Vitaly Shishou
 **Trainee Front-end Developer**
 
+![MyPhoto](mem.jpg)
+
 ## Contacts
 * email: shishovip@yandex.ru
 * phone: +375291151514
